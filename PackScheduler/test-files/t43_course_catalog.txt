@@ -1,0 +1,9 @@
+ART215,Impressionism in France,001,3,hugow,10,MWF,1400,1450
+BIO101,Introduction to Biology,001,3,millerb,10,TH,800,950
+CSC114,Seminar: Computers and Animation,006,3,lesterl,10,F,1100,1350
+CSC116,Intro to Computer Science - Java,001,4,jenkinst,10,MWHF,800,950
+CSC116,Intro to Computer Science - Java,002,3,holtk,10,MW,1100,1250
+ECN101,Intro to Economics ,001,3,yatesh,10,MWF,1300,1350
+ENG101,Intro to English and Composition,001,3,smitha,10,MWF,1300,1350
+HIS115,World Civilizations I,001,3,russog,10,TH,1000,1050
+MUS120,Intro to 20th Century Music,001,3,talbertr,10,MWF,1000,1050

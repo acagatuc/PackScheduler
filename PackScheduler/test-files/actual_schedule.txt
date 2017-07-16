@@ -1,0 +1,4 @@
+CSC216,Programming Concepts - Java,601,4,jep,A
+CSC116,Intro to Programming - Java,002,3,spbalik,MW,1120,1310
+Exercise,MTHF,800,900,1,Cardio Days
+CSC226,Discrete Mathematics for Computer Scientists,001,3,tmbarnes,MWF,935,1025

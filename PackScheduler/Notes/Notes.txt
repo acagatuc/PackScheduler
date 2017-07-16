@@ -1,0 +1,15 @@
+//NOTES 16 Feb 2017 //
+	-currentUser not used
+	-clearData errors at courseCatalog.newCourseCatalog()::
+		"The program is dereferencing a field that does not seem to ever have a non-null 
+		value written to it. Unless the field is initialized via some mechanism not seen 
+		by the analysis, dereferencing this value will generate a null pointer exception."
+		**Used getters instead of directly accessing the instance variables** 
+	
+	-bug at login()::
+		-dereferencing a field that does not seem to ever have a non-null value written to it
+		**Should use a User object, not just a student object**
+		**Defined instance variable registrar to new Registrar() object.  
+		
+		
+		
